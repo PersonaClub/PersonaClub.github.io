@@ -17,7 +17,7 @@
      <img src="koone.png" alt="nocookie.net">
         
         
-    <video controls width="400" height="400"
+    <video controls 
        autoplay loop muted preload="auto"
        poster="koone.png">
         <source src="v09044g40000c6ndfjjc77u630nhc0rg.mp4" type="video/mp4">
