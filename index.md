@@ -16,10 +16,8 @@
       
      <img src="koone.png" alt="nocookie.net">
     
-    <p>Little Bunny Foo Foo, <br>
-I don't want to see you <br>
-scooping up the field mice <br>
-and bopping them on the head!</p>
+    <p>I am dog... Okay? <br>
+bun bun cha </p>
 
     </body>
 </html>
