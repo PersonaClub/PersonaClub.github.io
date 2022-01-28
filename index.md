@@ -23,9 +23,14 @@
        
     </video>
         <script>
-            var video = document.currentScript.parentElement;
-            video.volume = 0.1;
-            </script>
+            var vid = document.getElementById("v09044g40000c6ndfjjc77u630nhc0rg.mp4");
+            
+            vid.volume = 0.2;
+           
+            </script> 
+        
+    
+        
     <p>I am dog... Okay? <br>
 bun bun cha </p>
         
