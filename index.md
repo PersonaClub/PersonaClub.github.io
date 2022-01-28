@@ -19,9 +19,9 @@
         
     <video controls width="400" height="400"
        autoplay loop muted preload="auto"
-       poster="poster.png">
-        <source src="rabbit320.mp4" type="video/mp4">
-        <source src="rabbit320.webm" type="video/webm">
+       poster="koone.png">
+        <source src="v09044g40000c6ndfjjc77u630nhc0rg.mp4" type="video/mp4">
+        
         <p>Your browser doesn't support HTML video. Here is a <a href="rabbit320.mp4">link to the video</a> instead.</p>
     </video>
     
