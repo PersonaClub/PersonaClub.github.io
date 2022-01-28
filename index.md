@@ -14,7 +14,7 @@
     
     <h2>Songs</h2>
       
-     <img src="koone.png" alt="nocookie.net">
+     <img src="https://static.wikia.nocookie.net/virtualyoutuber/images/c/c6/Inugami_Korone_Portrait.png" alt="nocookie.net">
     
     <p>Little Bunny Foo Foo, <br>
 I don't want to see you <br>
