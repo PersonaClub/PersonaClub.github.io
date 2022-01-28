@@ -12,7 +12,7 @@
     
     <p>What a crazy doggie</p>
     
-    <h2>Songs</h2>
+    <h2>Crazy doggie moments</h2>
       
      <img src="koone.png" alt="nocookie.net">
         
