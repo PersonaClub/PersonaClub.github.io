@@ -14,7 +14,7 @@
     
     <h2>Songs</h2>
       
-      <img src="koone.jpg" style="max-width:100%" alt="korone">
+     <img src="https://static.wikia.nocookie.net/virtualyoutuber/images/c/c6/Inugami_Korone_Portrait.png/revision/latest/scale-to-width-down/350?cb=20190405185913" alt="korone">
     
     <p>Little Bunny Foo Foo, <br>
 I don't want to see you <br>
