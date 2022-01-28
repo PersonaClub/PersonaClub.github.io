@@ -22,7 +22,10 @@
         <source src="v09044g40000c6ndfjjc77u630nhc0rg.mp4" type="video/mp4">
        
     </video>
-    
+        <script>
+            var video = document.currentScript.parentElement;
+            video.volume = 0.1;
+            </script>
     <p>I am dog... Okay? <br>
 bun bun cha </p>
         
