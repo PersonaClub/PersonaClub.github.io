@@ -17,13 +17,13 @@
      <img src="koone.png" alt="nocookie.net">
         
         
-    <video controls 
+    <video id="jinglebells" controls 
        autoplay loop preload="auto">
         <source src="v09044g40000c6ndfjjc77u630nhc0rg.mp4" type="video/mp4">
        
     </video>
         <script>
-            var vid = document.getElementById("v09044g40000c6ndfjjc77u630nhc0rg.mp4");
+            var vid = document.getElementById("jinglebells");
             
             vid.volume = 0.2;
            
