@@ -20,7 +20,7 @@
     <head>
     <style> 
         body {
-          background-image: url("img_tree.gif"), url("paper.gif");
+          background-image: url("koone.png"), url("koone.png");
           background-repeat: no-repeat, repeat;
           background-color: #cccccc;
         }
