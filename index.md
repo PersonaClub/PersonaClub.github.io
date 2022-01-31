@@ -7,7 +7,7 @@
     
     
     
-    <audio id="snowflakes" controls loop autoplay preload="auto">
+    <audio id="snowflakes" controls loop autoplay>
         <source src="SNOWFLAKES - Persona 4 The Golden.mp3" type="audio/mp3">
     </audio>
     <script>
