@@ -34,7 +34,7 @@
         
         
     <video id="jinglebells" controls 
-       autoplay loop preload="auto">
+       loop preload="auto">
         <source src="v09044g40000c6ndfjjc77u630nhc0rg.mp4" type="video/mp4">
        
     </video>
