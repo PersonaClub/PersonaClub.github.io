@@ -1,9 +1,6 @@
 
 <html>
-    <head>
-        <meta charset="utf-8">
-        <title>HTML: Lists</title>
-    </head>
+    
     
     
     
