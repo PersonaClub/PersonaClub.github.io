@@ -13,7 +13,7 @@
     <script>
             var bgm = document.getElementById("snowflakes");
             
-            bgm.volume = 0.2;
+            bgm.volume = 0.1;
            
             </script> 
     
