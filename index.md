@@ -1,6 +1,17 @@
 
 <html>
     
+    <audio id="snowflakes" controls autoplay hidden loop preload="auto">
+        <source src="SNOWFLAKES - Persona 4 The Golden.mp3" type="audio/mp3">
+    </audio>
+    <script>
+            var bgm = document.getElementById("snowflakes");
+            
+            bgm.volume = 0.1;
+           
+            </script> 
+    
+    
     <head>
     <style> 
         body {
@@ -16,14 +27,6 @@
 
     </head>
     
-     <audio id="snowflakes" controls autoplay hidden loop preload="auto">
-        <source src="SNOWFLAKES - Persona 4 The Golden.mp3" type="audio/mp3">
-    </audio>
-    <script>
-            var bgm = document.getElementById("snowflakes");
-            
-            bgm.volume = 0.1;
-           
-            </script> 
+     
     
 </html>
