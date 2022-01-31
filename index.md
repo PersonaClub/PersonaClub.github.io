@@ -33,8 +33,7 @@
      <img src="koone.png" alt="nocookie.net">
         
         
-    <video id="jinglebells" controls 
-       loop preload="auto">
+    <video id="jinglebells" controls loop>
         <source src="v09044g40000c6ndfjjc77u630nhc0rg.mp4" type="video/mp4">
        
     </video>
