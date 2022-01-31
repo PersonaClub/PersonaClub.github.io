@@ -17,39 +17,31 @@
            
             </script> 
     
-    
-    <body>
+    <head>
+    <style> 
+        body {
+          background-image: url("img_tree.gif"), url("paper.gif");
+          background-repeat: no-repeat, repeat;
+          background-color: #cccccc;
+        }
+        </style>
 
     <h1>Vtuber database</h1>
     
-    <h2>Inugami Korone</h2>
     
     <p>What a crazy doggie</p>
     
     <h2>aaaaaaaaaaaaaaaaaaaa</h2>
-        
-    <h2>Crazy doggie moments</h2>
-      
-     <img src="koone.png" alt="nocookie.net">
-        
-        
-    <video id="jinglebells" controls loop>
-        <source src="v09044g40000c6ndfjjc77u630nhc0rg.mp4" type="video/mp4">
-       
-    </video>
-        <script>
-            var vid = document.getElementById("jinglebells");
-            
-            vid.volume = 0.2;
-           
-            </script> 
-        
-    
+
+
         
     <p>I am dog... Okay? <br>
-bun bun cha </p>
+        bun bun cha </p>
         
         <a href="bestmoments.html">koone</a>
 
+    </head>
+    </body>
+    
     </body>
 </html>
