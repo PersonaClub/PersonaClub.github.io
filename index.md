@@ -38,7 +38,5 @@
         <a href="bestmoments.html">koone</a>
 
     </head>
-    </body>
     
-    </body>
 </html>
