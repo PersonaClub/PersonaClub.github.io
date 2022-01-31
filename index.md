@@ -5,8 +5,10 @@
         <title>HTML: Lists</title>
     </head>
     
+    
+    
     <audio loop autoplay>
-        <source src="SNOWFLAKES - Persona 4 The Golden.mp3" type="audio/filetype">
+        <source src="SNOWFLAKES - Persona 4 The Golden.mp3" type="audio/mp3">
     </audio>
     <body>
 
