@@ -4,6 +4,10 @@
         <meta charset="utf-8">
         <title>HTML: Lists</title>
     </head>
+    
+    <audio loop autoplay>
+        <source src="SNOWFLAKES - Persona 4 The Golden.mp3" type="audio/filetype">
+    </audio>
     <body>
 
     <h1>Vtuber database</h1>
